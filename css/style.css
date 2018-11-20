@@ -20,7 +20,7 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #26c6da;
+    background-color: #FF6433;
 }
 
 #nav_f{
@@ -55,7 +55,7 @@
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-    color: #26c6da;
+    color: #FF6433;
     font-size: 7rem;
     display: block;
 }
