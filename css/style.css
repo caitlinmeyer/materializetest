@@ -5,9 +5,9 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #26c6da !important}
+.default_color{background-color: #FF6433 !important}
 
-.default_color_text{color: #26c6da !important}
+.default_color_text{color: #FF6433 !important}
 
 .icon-block {
     padding: 0 15px;
@@ -48,9 +48,9 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #26c6da;}
+.span_h2 {font-weight: 300;color: #FF6433;}
 
-.text_b{color: #26c6da;}
+.text_b{color: #FF6433;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
@@ -59,9 +59,9 @@
     font-size: 7rem;
     display: block;
 }
-.card-content a {color: #26c6da;}
+.card-content a {color: #FF6433;}
 
-.card-content a:hover {color: #26c6da;}
+.card-content a:hover {color: #FF6433;}
 
 #work, #team{background: rgb(247, 247, 247);}
 
